@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\demo\\ZXingProj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\demo\\ZXingProj\\app\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\demo\\ZXingProj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_result.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\demo\\ZXingProj\\app\\src\\main\\res\\layout\\activity_result.xml"
+    }
+]
